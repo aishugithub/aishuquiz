@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "answer": "A candle",
+    "category": "general",
+    "ageGroup": "6-10"
+  },
+  {
+    "id": 2,
+    "question": "What has keys but can’t open locks?",
+    "answer": "A piano",
+    "category": "music",
+    "ageGroup": "6-10"
+  },
+  {
+    "id": 3,
+    "question": "What has a heart that doesn’t beat?",
+    "answer": "An artichoke",
+    "category": "logic",
+    "ageGroup": "11-15"
+  }
+]
